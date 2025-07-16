@@ -81,7 +81,8 @@ Voting_app/
 ```
 ---
 
-##🧪 Example Candidate Data (POST /candidates/)
+## 🧪 Example Candidate Data (POST /candidates/)
+
 ```json
 {
   "name": "Priya Sharma",
